@@ -13,9 +13,8 @@
 
  
  <a href="https://www.instagram.com/its_sandeepkashyap/" target="_blank">
-  <img align="left" alt="Jony's Instagram" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" />
+  <img align="left" alt="allexs Instagram" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" />
 </a>
-  <img align="left" alt="Jony's Linkedin" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />
 </a>
 <a href="https://twitter.com/its_sandeepkr">
   <img align="left" alt="Jony's Twitter" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" />
@@ -72,4 +71,4 @@ EJS                      2 repos             █░░░░░░░░░░�
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jony-Jas&show_icons=true&theme=gotham" alt="Jony-Jas" />
 --->
 <br>
-<h2><em>"𝘗𝘳𝘰𝘨𝘳𝘢𝘮 𝘤𝘰𝘥𝘦𝘴 𝘢𝘳𝘦 𝘭𝘪𝘬𝘦 𝘵𝘩𝘦 𝘭𝘪𝘧𝘦 𝘴𝘵𝘰𝘳𝘺 𝘰𝘧 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦, 𝘢𝘯𝘥 𝘵𝘩𝘦 𝘰𝘯𝘦𝘴 𝘸𝘩𝘰 𝘸𝘳𝘪𝘵𝘦 𝘵𝘩𝘪𝘴 𝘴𝘵𝘰𝘳𝘺 𝘢𝘳𝘦 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳𝘴"<h3 align="right"> - Rishav Dev Kumar</h3></em></h2> 
+<h2><em>"𝘗𝘳𝘰𝘨𝘳𝘢𝘮 𝘤𝘰𝘥𝘦𝘴 𝘢𝘳𝘦 𝘭𝘪𝘬𝘦 𝘵𝘩𝘦 𝘭𝘪𝘧𝘦 𝘴𝘵𝘰𝘳𝘺 𝘰𝘧 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦, 𝘢𝘯𝘥 𝘵𝘩𝘦 𝘰𝘯𝘦𝘴 𝘸𝘩𝘰 𝘸𝘳𝘪𝘵𝘦 𝘵𝘩𝘪𝘴 𝘴𝘵𝘰𝘳𝘺 𝘢𝘳𝘦 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦𝘳𝘴"<h3 align="right"> - Sandeep Kashyap</h3></em></h2> 
