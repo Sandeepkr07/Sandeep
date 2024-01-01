@@ -26,7 +26,7 @@
 </br>
 </br>
 
-- 👀About me: 
+- 👀About me: 🫶
 >>🚀A Passionate "Web Developer" and enthusiastic  mechanical engineer 🛠️, constantly seeking opportunities to learn and grow, no matter the scale. Dedicated to building a better future through technology while enhancing personal development. 📈
 
 <br>
