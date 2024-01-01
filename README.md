@@ -19,7 +19,7 @@
 <a href="https://twitter.com/its_sandeepkr">
   <img align="left" alt="Jony's Twitter" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" />
 </a>
-<a href="https://open.spotify.com/user/31cl7trdf4lx6z452vxh3xcyyoga">
+<a href="https://open.spotify.com/user/3155bxae5av6r6k4vaxumrm75beq?si=mXELhssHRauKw6y4NJkmfg">
   <img align="left" alt="Jony's Spotify" width="40px" src="https://user-images.githubusercontent.com/74784363/132524968-f8d6f1d7-ff49-4ecb-bc15-1c681d63bcce.png" />
 </a>                                                                              
 </br>
@@ -52,8 +52,8 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   50.00 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   50.00 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 EJS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
