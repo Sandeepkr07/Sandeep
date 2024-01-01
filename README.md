@@ -9,16 +9,15 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=This+is+Rishavdevkr;+𝙸t'𝚜+Not+𝙹ust+a+𝙽ame+𝙱ro;𝙸t'𝚜+a+𝙱rand;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=This+is+Sandeepkr07;+𝙸t'𝚜+Not+𝙹ust+a+𝙽ame+𝙱ro;𝙸t'𝚜+a+𝙱rand;)](https://git.io/typing-svg)
 
  
- <a href="https://www.instagram.com/rishavdevkrr/" target="_blank">
+ <a href="https://www.instagram.com/its_sandeepkashyap/" target="_blank">
   <img align="left" alt="Jony's Instagram" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" />
 </a>
-<a href="https://www.linkedin.com/in/rishavdevkr/">
   <img align="left" alt="Jony's Linkedin" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />
 </a>
-<a href="https://twitter.com/rishavdevkr">
+<a href="https://twitter.com/its_sandeepkr">
   <img align="left" alt="Jony's Twitter" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" />
 </a>
 <a href="https://open.spotify.com/user/31cl7trdf4lx6z452vxh3xcyyoga">
@@ -29,7 +28,7 @@
 </br>
 
 - 👀About me: 
->>🚀A Passionate "Web Developer" and enthusiastic  electrical engineer 🛠️, constantly seeking opportunities to learn and grow, no matter the scale. Dedicated to building a better future through technology while enhancing personal development. 📈
+>>🚀A Passionate "Web Developer" and enthusiastic  mechanical engineer 🛠️, constantly seeking opportunities to learn and grow, no matter the scale. Dedicated to building a better future through technology while enhancing personal development. 📈
 
 <br>
 
@@ -64,7 +63,7 @@ EJS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2023 18:40:19 UTC
+ Last Updated on 01/01/2024 18:40:19 UTC
 <!--END_SECTION:waka-->
 
 <!----
