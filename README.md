@@ -16,7 +16,7 @@
   <img align="left" alt="allexs Instagram" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png" />
 </a>
 </a>
-<a href="https://twitter.com/--sandeepkr">
+<a href="https://twitter.com/__sandeepkr">
   <img align="left" alt="Jony's Twitter" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-twitter-social-media-justicon-lineal-color-justicon.png" />
 </a>
 <a href="https://open.spotify.com/user/3155bxae5av6r6k4vaxumrm75beq?si=mXELhssHRauKw6y4NJkmfg">
